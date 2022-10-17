@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LucasFerreira93
+# 👋 Ola me chamo Lucas Ferreira
 Analista de Suporte Tecnico | Linux | Cloud | SQL | Python
 
 Quer me conhecer um pouco melhor? Segue ai minhas redes sociais.
